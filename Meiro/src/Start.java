@@ -5,6 +5,7 @@ public class Start {
 		// TODO 自動生成されたメソッド・スタブ
 		
 		Gamemain maze =new Gamemain();
+		maze.setSize(510,510);
 	}
 
 }
